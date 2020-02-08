@@ -1,0 +1,140 @@
+{
+  "login" : {
+    "title" : "Login",
+    "dont_have_an_account" : "Don't have an account?",
+    "register_now"         : "REGISTER NOW",
+    "phone_number"          : "Phone Number",
+    "verification_otp"  : {
+      "title" : "Verification",
+      "otp_code_text" : "Please enter an OTP code sent to",
+      "verify" : "Verify",
+      "didnt_get_any_code" : "Didn't get any code?",
+      "resend_now"      : "RESEND NOW",
+      "sent" : "Sent",
+      "first_text_resend" : "Wait for",
+      "second_text_resend" : "to resend another code"  
+    }
+  },
+  "registration":{
+    "title":"Registration",
+    "placeholder":{
+      "your_name":"Your Name",
+      "phone_number":"Phone Number",
+      "email" : "Email",
+      "pin" : "pin"
+    },
+    "label":{
+      "term_and_condition":"I agree to the Terms & Conditions",
+      "already_have": "Already have an account? ",
+      "login_now" : "LOGIN NOW"
+    },
+    "button" : {
+      "register" : "Register"
+    },
+    "term_and_condition" : "Please check Term & Conditions"
+  },
+  "pin":{
+    "title":"Pin",
+    "enter_your_pin" : "Please enter your PIN",
+    "button":{
+      "next" : "Next"
+    }
+  },
+  "confirmation_pin":{
+    "title":"Confirmation",
+    "enter_your_pin" : "Please re enter your PIN",
+    "button":{
+      "next" : "Register Now"
+    }
+  },
+  "outlet":{
+    "label":{
+      "order_now" : "Order Now"
+    }
+  },
+  "checkout_done":{
+    "title" : "Done",
+    "information": "Your order is being prepared, we will serve to you soon",
+    "button":{
+      "back_to_home":"Back To Home"
+    }
+  },
+  "main" : {
+    "home" : "Home",
+    "account" : "Account",
+    "order"  : {
+      "title" : "Scan to Order",
+      "sub_title" : "Order"
+    }
+  },
+  "home" : {
+    "top_menu" : {
+      "pay" : "Pay",
+      "top_up" : "Top Up",
+      "my_qr" : "My QR",
+      "history" : "History"
+    },
+    "restaurant_menu" : {
+      "for_dinner" : "For Dinner",
+      "coffee_addict" : "Coffee Addict",
+      "bring" : "Bring your friends and family tonight",
+      "meet" : "Meeting and hangout with caffeine",
+      "see_more" : "See More"
+    }
+  },
+  "account" : {
+    "title" : "Account",
+    "change_pin" : "Change PIN",
+    "create_pin" : "Create PIN",
+    "logout" : "Logout",
+    "version_app" : "Bistro App v1.0",
+    "edit_account" : {
+      "title" : "Edit Account",
+      "your_name" : "Your Name",
+      "phone_number" : "Phone Number",
+      "save" : "Save"
+    },
+    "change_language" : {
+      "title" : "Change Language",
+      "english" : "English",
+      "indonesian" : "Indonesian",
+      "save" : "Save"
+    },
+    "enter_pin" : {
+      "title" : "Enter PIN",
+      "notif" : "Invalid PIN",
+      "button_text" : "Continue"
+    },
+    "done_page" : {
+      "title" : "Done",
+      "notif" : "Your PIN has been created, your transactions will be secured",
+      "button_text" : "Back To Home"
+    }
+  },
+  "grand_total" : "Grand Total",
+  "history":{
+    "history_list":{
+      "title":"History"
+    },
+    "detail" : {
+      "note" : "Note",
+      "dine_in" : "Dine In"
+    }
+  },
+  "pay" : {
+    "title" : "Scan to Pay or Transfer"
+  },
+  "transfer" : {
+    "title" : "Transfer",
+    "balance" : "Your Balance",
+    "amount_transfer" : "Amount Transfer",
+    "confirm" : "Confirm"
+  },
+  "my_qr" : {
+    "title" : "My QR",
+    "pay" : "Pay",
+    "step_1" : "Tell your friend to tap",
+    "step_2" : "Ask to scan QR Code above",
+    "step_3" : "Enter amount to transfer, then confirm"
+  }
+}
