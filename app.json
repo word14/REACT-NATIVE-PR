@@ -12,7 +12,7 @@
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "http://simpanan.danaarta.net/mobileapp/images/f_splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
